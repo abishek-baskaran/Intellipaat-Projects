@@ -1,1 +1,1 @@
-This repository contains the assignment submissions done towards the completion of intellipaat's certification program **Advanced Certification in Data science and AI offered by iHUB DivyaSampark, IIT Roorkee, and Intellipaat**
+This repository contains the assignment submissions of python (ML) and SQL done towards the completion of intellipaat's certification program **Advanced Certification in Data science and AI offered by iHUB DivyaSampark, IIT Roorkee, and Intellipaat**
